@@ -9,10 +9,11 @@
 .fa {
     padding: 20px;
     font-size: 30px;
-    width: 50px;
+    width: auto;
+    height: auto;
     text-align: center;
     text-decoration: none;
-    border-radius: 50%;
+
 }
 
 /* Add a hover effect if you want */
@@ -31,5 +32,10 @@
 /* Twitter */
 .fa-twitter {
     background: #55ACEE;
+    color: white;
+}
+/* Twitter */
+.fa-instagram {
+    background: #D21E40;
     color: white;
 }

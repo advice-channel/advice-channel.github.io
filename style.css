@@ -56,6 +56,10 @@ h2{ font-style: normal;
   color: white;
 }
 
+dt{ font-style: normal;
+  font-size: 40px
+}
+
 h1{ font-style: normal;
     font-weight: bold;
   color: purple;
